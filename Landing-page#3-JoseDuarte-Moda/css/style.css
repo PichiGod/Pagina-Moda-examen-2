@@ -1,0 +1,31 @@
+#img-big-card{
+    width: 400px;
+    height: auto;
+}
+
+img.img-card{
+    border-radius: 8px;
+    width: 400px;
+    height: auto;
+}
+
+#brook{
+    height: auto;
+    width: 200px;
+}
+
+#img-ck{
+    height: auto;
+    width: 175px;
+}
+
+#jm{
+    width: 250px;
+    height: auto;
+}
+
+#ry{
+    height: auto;
+    width: 200px;
+    margin-top: 10%;
+}
